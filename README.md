@@ -1,0 +1,2 @@
+# notes
+javascript notes
